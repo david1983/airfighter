@@ -1,0 +1,16 @@
+{
+  "name": "Air Fighter",
+  "description": "Choose your favourite aircraft and kill all the enemies that you can",
+  "launch_path": "/applications/airfighter/index.html",
+  "icons": {
+    "128": "http://airfighter.geekmesh.com/icon.png"
+  },
+  "developer": {
+    "name": "Davide Andreazzini",
+    "url": "http://davideandreazzini.co.uk"
+  },
+  "orientation": ["landscape-primary"],
+  "default_locale": "en",
+  "version": "1.01"  
+}
+
